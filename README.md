@@ -1,3 +1,3 @@
 # Hackerrank-SQL
 
-Solutions for Hacker Rank SQ questions.
+Solutions for Hacker Rank SQL questions.
